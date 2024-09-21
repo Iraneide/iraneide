@@ -1,5 +1,5 @@
 🙋‍♀️ Olá! Eu sou Iraneide Cândido da Silva, Desenvolvedora de Software 
-Apaixonada por tecnologia ❤
+apaixonada por tecnologia ❤
 
 
 - 👩‍🎓 Pós graduação em Desenvolvimento orientado a objeto em JAVA  ... Faculdade Estácio de Sá
