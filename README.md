@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Sou Iraneide Cândido da Silva, Desenvolvedora de Software 
+Apaixonada por tecnologia ❤
 
-<!--
-**Iraneide/iraneide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👩‍🎓 Pós graduação em Desenvolvimento orientado a objeto em JAVA  ... Faculdade Estácio de Sá
+- 🎓 Graduação em Desenvolvimento de Sistema ... Faculdade Estácio de Sá
+- 💻 Curso Técnico em informática (Suporte e Redes) ... Senac
+- 💻 Curso Administrador Banco de dados... Senac 
+- 👩‍💻 Curso PHP com MYSQL ...Senac 
+- 🖱 Curso Front-End: Html, Css, Bootstrap, js e Jquery ... Senac
+- 😄 Curso Montador de Equipamentos Eletrônicos - Robótica ... Escola Técnica de Ceilândia
+- ❤ Curso Técnico em Informática (Desenvolvimento de Sistemas) ... Senac
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
