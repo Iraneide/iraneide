@@ -11,7 +11,6 @@ Apaixonada por tecnologia ❤
 - 😄 Curso Montador de Equipamentos Eletrônicos - Robótica ... Escola Técnica de Ceilândia
 - ❤ Curso Técnico em Informática (Desenvolvimento de Sistemas) ... Senac
 
-
 <h2 align="left">stats</h2>
 
 ###
@@ -20,10 +19,16 @@ Apaixonada por tecnologia ❤
   <img src="https://github-readme-stats.vercel.app/api?username=iraneide&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iraneide&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="160" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=iraneide&locale=pt-br&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=iraneide&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iraneide&radius=16&theme=redical&area=true&order=5" height="355" alt="activity-graph graph"  />
 </div>
 
 ###
+
+<p align="left">Techs</p>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
@@ -75,3 +80,5 @@ Apaixonada por tecnologia ❤
 <img src="https://raw.githubusercontent.com/iraneide/iraneide/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
