@@ -77,8 +77,4 @@ apaixonada por tecnologia ❤
 
 ###
 
-<img src="https://raw.githubusercontent.com/iraneide/iraneide/output/snake.svg" alt="Snake animation" />
-
-###
-
 
