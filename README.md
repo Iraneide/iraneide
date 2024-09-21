@@ -1,4 +1,4 @@
-🙋‍♀️ Olá! Sou Iraneide Cândido da Silva, Desenvolvedora de Software 
+🙋‍♀️ Olá! Eu sou Iraneide Cândido da Silva, Desenvolvedora de Software 
 Apaixonada por tecnologia ❤
 
 
