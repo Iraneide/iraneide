@@ -24,7 +24,6 @@ Apaixonada por tecnologia ❤
 </div>
 
 ###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
