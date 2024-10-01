@@ -3,7 +3,7 @@ apaixonada por tecnologia ❤
 
 
 - 👩‍🎓 Pós graduação em Desenvolvimento Orientado a Objeto em JAVA  ... Faculdade Estácio de Sá
-- 🎓 Graduação em Desenvolvimento de Sistema ... Faculdade Estácio de Sá
+- 🎓 Graduação em Sistema de Informação ... Faculdade Estácio de Sá
 - 💻 Curso Técnico em Informática (Suporte e Redes) ... Senac
 - 💻 Curso Administrador Banco de Dados... Senac 
 - 👩‍💻 Curso PHP com MYSQL ...Senac 
