@@ -1,6 +1,5 @@
-🙋‍♀️ Olá! Eu sou Iraneide Cândido da Silva, Desenvolvedora de Software,
-apaixonada por tecnologia ❤
-
+🙋‍♀️ Olá! Sou formada em Sistemas de Informação e pós-graduada em Java Orientado a Objetos. Ao longo da minha carreira, tive a oportunidade de atuar como Programadora Júnior e Suporte Técnico em TI, experiências que me proporcionaram uma base sólida tanto no desenvolvimento de soluções tecnológicas quanto no atendimento e suporte a usuários e sistemas. 
+Sou apaixonada por Tecnologia ❤
 
 - 👩‍🎓 Pós graduação em Desenvolvimento Orientado a Objeto em JAVA  ... Faculdade Estácio de Sá
 - 🎓 Graduação em Sistema de Informação ... Faculdade Estácio de Sá
