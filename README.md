@@ -1,6 +1,4 @@
-🙋‍♀️ Olá! Sou formada em Sistemas de Informação, com pós-graduação em Desenvolvimento Orientado a Objetos em Java. Atualmente, curso pós-graduação em Computação Forense e Segurança da Informação no IPOG. Atuei como programadora júnior e em suporte técnico de TI, com experiência no desenvolvimento de soluções, no atendimento a usuários e no suporte a sistemas. </br>
-</br>Sou apaixonada por Tecnologia ❤
-
+🙋‍♀️ Olá! Sou formada em Sistemas de Informação, com pós-graduação em Desenvolvimento Orientado a Objetos em Java. Atualmente, curso pós-graduação em Computação Forense e Segurança da Informação no IPOG. Atuei como programadora júnior e em suporte técnico de TI, com experiência no desenvolvimento de soluções, no atendimento a usuários e no suporte a sistemas.
 
 - 👩‍🎓 Pós-graduação em Computação Forense e Segurança da Informação — IPOG (em andamento)
 - 👩‍🎓 Pós graduação em Desenvolvimento Orientado a Objeto em JAVA  ... Faculdade Estácio de Sá
