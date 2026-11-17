@@ -1,4 +1,4 @@
-🙋‍♀️ Olá! Sou formada em Sistemas de Informação e pós-graduada em Java Orientado a Objetos. Ao longo da minha carreira, tive a oportunidade de atuar como Programadora Júnior e Suporte Técnico em TI, experiências que me proporcionaram uma base sólida tanto no desenvolvimento de soluções tecnológicas quanto no atendimento e suporte a usuários e sistemas. </br>
+🙋‍♀️ Olá! Sou formada em Sistemas de Informação, com pós-graduação em Desenvolvimento Orientado a Objetos em Java. Atualmente, curso pós-graduação em Computação Forense e Segurança da Informação no IPOG. Atuei como programadora júnior e em suporte técnico de TI, com experiência no desenvolvimento de soluções, no atendimento a usuários e no suporte a sistemas. </br>
 </br>Sou apaixonada por Tecnologia ❤
 
 
