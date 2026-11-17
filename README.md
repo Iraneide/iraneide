@@ -2,6 +2,7 @@
 </br>Sou apaixonada por Tecnologia ❤
 
 
+- 👩‍🎓 Pós-graduação em Computação Forense e Segurança da Informação — IPOG (em andamento)
 - 👩‍🎓 Pós graduação em Desenvolvimento Orientado a Objeto em JAVA  ... Faculdade Estácio de Sá
 - 🎓 Graduação em Sistema de Informação ... Faculdade Estácio de Sá
 - 💻 Curso Técnico em Informática (Suporte e Redes) ... Senac
